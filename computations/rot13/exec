@@ -1,2 +1,1 @@
-#!/bin/sh
-tr a-zA-Z n-za-mN-ZA-M <"$1" >"$2"
+/srv/computation/rot13.sh
